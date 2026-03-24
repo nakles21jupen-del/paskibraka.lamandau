@@ -1,0 +1,2 @@
+# paskibraka.lamandau
+latihan
